@@ -6,8 +6,13 @@ phpとかJSとかここんとこずっとさわってなさ過ぎて忘れてた
 Botの元ネタはアイカツの「アイカツ格言」と「大空お天気」。
 
 ## Overview
-* アイカツ格言botのほうは毎週木曜日18:51ごろにアイカツ格言を1つランダムで流すbot 
-<img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/aikt_kkgn_Twitter_demo.JPG" width="250" height="350"> 
+* アイカツ格言botのほうは毎週木曜日18:51ごろにアイカツ格言を1つランダムで流すbot  
+
+<div align="center">
+    <td><img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/aikt_kkgn_Twitter_demo.JPG" width="150" height="170"></td>
+    <td><img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/aikt_kkgn_Slack_demo.jpg" width="400" height="250"></td>
+</div>
+
 * 大空お天気botは毎朝7:23-7:25の間に「@art_wmrn あかりちゃ～ん！○○のお天気どうですか～？」みたいな感じで聞くと現在の天気を教えてくれるbot  
 ※今日の天気ではない
 
@@ -16,6 +21,12 @@ Botの元ネタはアイカツの「アイカツ格言」と「大空お天気�
 昔アニメでやっていたアイカツのミニコーナー。  
 毎週、本編が終わった後にその日の話を振り返ってキャラクターが今週の格言を紹介する。残念ながらアイカツの4シーズンと今(2017)アニメでやっているアイカツスターズではコーデ紹介のコーナーになっている。(アイカツの最終回とアイカツ5周年記念の回を除く)  
 これをもとに、現在放送中のアイカツスターズのコーデ紹介の時間に合わせてtwitterとSlackでアイカツ格言を呟いてくれるbotを作った。その時、twitterでは画像リンクから画像を開いてくれなかったのでneverでまとめられていた記事のリンクをはった。また、Slackのほうはリンクから画像を開いてくれたのでneverの画像リンクとyoutubeで誰かがまとめていた動画リンクを呟いてくれるようにした。動画リンクは途中再生されるようにhtml埋め込み用のリンクを利用しているのでSlack上では見ることはできない。
+<table cellspacing="30"><tbody>
+<tr>
+    <td><img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/kakugen.jpg" width="400" height="250"></td>
+    <td><img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/ep1.jpg" width="400" height="250"></td>
+</tr>
+</tbody></table>
 
 2. 大空お天気bot(twitter)  
 アニメの登場人物である大空あかりちゃんがお天気キャスターとして登場しているコーナー  
