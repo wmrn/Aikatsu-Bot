@@ -15,6 +15,7 @@ Botの元ネタはアイカツの「アイカツ格言」と「大空お天気�
 
 * 大空お天気botは毎朝7:23-7:25の間に「@art_wmrn あかりちゃ～ん！○○のお天気どうですか～？」みたいな感じで聞くと現在の天気を教えてくれるbot  
 ※今日の天気ではない  
+時間違うけどこんな感じ。。。
 <div align="right">
     <img src="https://i.gyazo.com/ccecc5e5a6357e808d20c63f6bdcfc6c.gif" width="150" height="350">
     </div>
