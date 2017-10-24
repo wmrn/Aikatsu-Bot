@@ -41,11 +41,10 @@ Botの元ネタはアイカツの「アイカツ格言」と「大空お天気�
 PCのタスクマネージャーはPC閉じている間でも動くのか微妙だったためボツ。(たぶん無理だと思われ。試してないからわからんが。)  
 レンタルサーバーはコスパが悪くてボツ。(自分が今後サーバーをフル活用するような気がしなかった。)  
 って感じでラズパイがどんなものかも気になっていたのもあって勉強次いでな感じでラズパイを使うことにした。(サーバーというよりもPCだもんね。)  
-セットアップとか記事に書いてくださってるもの多くてとても助かった。  
-<div align="right">
-    <img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/RaspberryPi.PNG" width="300" height="300">
-</div>    
-        * 参考url  
+セットアップとか記事に書いてくださってるもの多くてとても助かった。<div align="right">
+    <img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/RaspberryPi.PNG" width="300" height="300"></div>  
+    
+    * 参考url  
   [RaspberryPi3のセットアップ](http://usicolog.nomaki.jp/engineering/raspberryPi/raspberryPi3.html)  
   [RaspberryPiにインストールしておくといいもの](http://www.seo-wp.net/entry/summry-ras-tool-20170307)  
   [RaspberryPiとファイル共有(Windows)](http://www.raspberrypirulo.net/entry/2016/08/22/Samba%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)  
@@ -56,7 +55,8 @@ PCのタスクマネージャーはPC閉じている間でも動くのか微妙�
 アイカツ格言の取得はwikiを利用し、画像類はnerverでまとめられていたリンクを利用、youtubeの動画は1つ1つの時間が微妙に異なっていたのでリンクをすべてメモに記録しそれをとってくるようにした。  
 botを動かすのはRaspberryPiでcronを利用した。  
 twitterでの実装はtwitteroauthのサンプルを利用して実装した。Slackでの実装はbotkitの使い方よくわからなかったからwebhook使った。  
-      * 参考url  
+
+    * 参考url  
   [twitterOAuth](http://wepicks.net/twitterapiv11_webapp/)  
   [cronの使い方](http://make.bcde.jp/raspberry-pi/%E6%B1%BA%E3%81%BE%E3%81%A3%E3%81%9F%E6%99%82%E9%96%93%E3%81%AB%E5%87%A6%E7%90%86%E3%81%99%E3%82%8B/)  
   [cronの使い方(MAILTOエラーの消し方)](http://www.server-memo.net/tips/crontab.html)  
