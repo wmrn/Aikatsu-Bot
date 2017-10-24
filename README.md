@@ -17,7 +17,7 @@ Botの元ネタはアイカツの「アイカツ格言」と「大空お天気�
 ※今日の天気ではない  
 時間違うけどこんな感じ。。。
 <div align="right">
-    <img src="https://i.gyazo.com/ccecc5e5a6357e808d20c63f6bdcfc6c.gif" width="150" height="350">
+    <img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/oozr_otnk_demo.JPG" width="150" height="350">
     </div>
 
 
