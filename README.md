@@ -7,7 +7,7 @@ Botの元ネタはアイカツの「アイカツ格言」と「大空お天気�
 
 ## Overview
 * アイカツ格言botのほうは毎週木曜日18:51ごろにアイカツ格言を1つランダムで流すbot 
-<img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/aikt_kkgn_Twitter.jpg" width="250" height="350"> 
+<img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/aikt_kkgn_Twitter_demo.JPG" width="250" height="350"> 
 * 大空お天気botは毎朝7:23-7:25の間に「@art_wmrn あかりちゃ～ん！○○のお天気どうですか～？」みたいな感じで聞くと現在の天気を教えてくれるbot  
 ※今日の天気ではない
 
