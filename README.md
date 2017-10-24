@@ -32,7 +32,9 @@ Botの元ネタはアイカツの「アイカツ格言」と「大空お天気�
 アニメの登場人物である大空あかりちゃんがお天気キャスターとして登場しているコーナー  
 記憶が正しいければ大空お天気は朝の7:23の時と7:25の時があった。(ほとんど25分だった。)  
 それをもとに7:23-7:25の時間の間に、botをあかりちゃん、自分をニュースキャスターに見立てて、リプととばすと大空お天気でお天気を教えてくれるbotを作った。Slackのほうはスラッシュコマンドでやりたいなと思ってるからまた今度。
-
+<div align="center">
+    <img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/oozr_otnk.jpg" width="400" height="250">
+    </div>
 
 ## Making
 1. RaspberryPi3  
@@ -40,7 +42,10 @@ PCのタスクマネージャーはPC閉じている間でも動くのか微妙�
 レンタルサーバーはコスパが悪くてボツ。(自分が今後サーバーをフル活用するような気がしなかった。)  
 って感じでラズパイがどんなものかも気になっていたのもあって勉強次いでな感じでラズパイを使うことにした。(サーバーというよりもPCだもんね。)  
 セットアップとか記事に書いてくださってるもの多くてとても助かった。  
-     * 参考url  
+<div align="right">
+    <img src="https://github.com/wmrn/Aikatsu-Bot/blob/master/data/RaspberryPi.PNG" width="300" height="300">
+</div>    
+        * 参考url  
   [RaspberryPi3のセットアップ](http://usicolog.nomaki.jp/engineering/raspberryPi/raspberryPi3.html)  
   [RaspberryPiにインストールしておくといいもの](http://www.seo-wp.net/entry/summry-ras-tool-20170307)  
   [RaspberryPiとファイル共有(Windows)](http://www.raspberrypirulo.net/entry/2016/08/22/Samba%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)  
